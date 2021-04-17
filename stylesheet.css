@@ -1,3 +1,108 @@
-.title {
-    color: #02ccba;
-  }
+* {
+  box-sizing: border-box
+}
+
+body {
+  font-family: "Hiragino Kaku Gothic ProN", sans-serif;
+}
+
+header {
+
+}
+
+.header-left {
+
+}
+
+.header-right {
+
+}
+
+
+
+.top-wrapper {
+  width: 100%;
+  background-image: url(top.png);
+  background-size: cover;
+  padding: 180px 0 100px 0;
+}
+
+.container {
+  width: 100%;
+  max-width: 1170px;
+  padding: ;
+  margin: ;
+}
+
+.btn-wrapper {
+
+}
+
+.btn {
+
+}
+
+.signup {
+
+}
+
+.facebook {
+
+}
+
+.twitter {
+
+}
+
+.lesson-wrapper {
+
+}
+
+.heading {
+
+}
+
+.lessons {
+
+}
+
+.lesson {
+  float: left;
+  width: 25%;
+}
+
+.lesson-icon {
+  position: relative;
+}
+
+.lesson-icon p {
+  position: absolute;
+  top: 
+}
+
+.text-contents {
+  
+}
+
+.message-wrapper {
+
+}
+
+.message {
+
+}
+
+footer {
+
+}
+
+
+
+
+
+
+
+
+
+
+
